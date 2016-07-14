@@ -1,6 +1,6 @@
-package edu.binarytree;
+package com.algorithm.binarytree;
 
-import edu.repo.datastructures.BinaryTree;
+import com.repo.datastructure.BinaryTree;
 
 
 /**

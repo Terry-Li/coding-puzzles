@@ -1,4 +1,4 @@
-package edu.repo.datastructures;
+package com.repo.datastructure;
 
 public class BinaryTree {
 	
