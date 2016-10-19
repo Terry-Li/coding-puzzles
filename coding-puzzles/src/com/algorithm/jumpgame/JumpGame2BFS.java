@@ -1,6 +1,6 @@
 package com.algorithm.jumpgame;
 
-public class JumpGame2 {
+public class JumpGame2BFS {
 	
 	public static void main(String[] args) {
 		int[] input = {1, 2, 0, 1};
